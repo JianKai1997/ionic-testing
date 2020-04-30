@@ -1,5 +1,7 @@
 {
   "name": "ionic-testing",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
